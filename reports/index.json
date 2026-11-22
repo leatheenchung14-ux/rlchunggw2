@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-191217-mnwd",
+      "title": "Succulent Apol Pai",
+      "commanders": [
+        "Succulent Apol Pai"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-11-22T09:12:17.000Z",
+      "dateEnd": "2026-11-22T10:13:41.095Z",
+      "dateLabel": "11/22/2026, 7:12:17 PM - 11/22/2026, 8:13:41 PM",
+      "url": "https://leatheenchung14-ux.github.io/rlchunggw2/?report=20261122-191217-mnwd",
+      "publishedBy": "leatheenchung14-ux",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261121-191203-p1t7",
       "title": "Big Apol Pai",
       "commanders": [
